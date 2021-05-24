@@ -1,4 +1,11 @@
+body {
+	background: url('assets/bg.png') no-repeat fixed center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	height: 100%;
+	overflow: hidden
+}
+
 p {
    color: green;
-   background: black;
 }
