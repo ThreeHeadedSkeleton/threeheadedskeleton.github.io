@@ -2,6 +2,10 @@
 	margin: 0; padding: 0;
 }
 
+a {
+	color: blue;
+}
+
 body {
 	background: url('assets/bg.png') no-repeat fixed center;
 	background-size: cover;
